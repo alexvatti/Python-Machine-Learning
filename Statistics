@@ -1,0 +1,62 @@
+Statistics is a branch of mathematics that deals with the collection, organization, analysis, interpretation and presentation of data. 
+It involves the use of numerical methods and measures to describe and explain the relationships between variables. 
+Studying statistics can help you understand and analyze data, make predictions and decisions based on evidence, and communicate your findings effectively
+
+
+population :	The collections of all items of interest to our study; denoted N.
+sample	: A subset of the population; denoted n.
+parameter	: A value that refers to a population. It is the opposite of statistic.
+statistic	: A value that refers to a sample. It is the opposite of a parameter.
+random sample: 	A sample where each member is chosen from the population strictly by chance
+
+type of data	A way to classify data. There are two types of data - categorical and numerical. 
+categorical data : 	A subgroup of types of data. Describes categories or groups.
+numerical data :	A subgroup of types of data. Represents numbers. Can be further classified into discrete and continuous.
+discrete data	: Data that can be counted in a finite matter. Opposite of continuous.
+continuous data	: Data that is 'infinite' and impossible to count. Opposite of discrete. 
+
+levels of measurement	A way to classify data. There are two levels of measurement - qualitative and quantitative, which are further classed into nominal & ordinal, and ratio & interval, respectively. 
+qualitative data : 	A subgroup of levels of measurement. There are two types of qualitative data - nominal and ordinal.
+quantitative data : 	A subgroup of levels of measurement. There are two types of quantitative data - ratio and interval.
+nominal	 : Refers to variables that describe different categories and cannot be put in any order.
+ordinal	 : Refers to variables that describe different categories, but can be ordered.
+ratio	: A number that has a unique and unambiguous zero point, no matter if a whole number or a fraction 
+interval: 	An interval variable represents a number or an interval. There isn't a unique and unambiguous zero point. 
+For example, degrees in Celsius and Fahrenheit are interval variables, while Kelvin is a ratio variable.
+
+
+frequency distribution table	A table that represents the frequency of each variable.
+frequency	Measures the occurrence of a variable.
+absolute frequency	Measures the NUMBER of occurrences of a variable.
+relative frequency	Measures the RELATIVE NUMBER of occurrences of a variable. Usually, expressed in percentages. 
+cumulative frequency	The sum of relative frequencies so far. The cumulative frequency of all members is 100% or 1.
+
+Pareto diagram	: A type of bar chart where frequencies are shown in descending order. There is an additional line on the chart, showing the cumulative frequency.
+histogram	: A type of bar chart that represents numerical data. It is divided into intervals (or bins) that are not overlapping and span from the first observation to the last. The intervals (bins) are adjacent - where one stops, the other starts.
+bins (histogram):	The intervals that are represented in a histogram.
+cross table	: A table which represents categorical data. On one axis we have the categories, and on the other - their frequencies. It can be built with absolute or relative frequencies.
+contigency table: 	See cross table.
+scatter plot :	A plot that represents numerical data. Graphically, each observation looks like a point on the scatter plot.
+
+measures of central tendency	Measures that describe the data through 'averages'. The most common are the mean, median and mode. There is also geometric mean, harmonic mean, weighted-average mean, etc.
+mean :	The simple average of the dataset. Denoted μ.
+median :	The middle number in an ordered dataset.
+mode	: The value that occurs most often. A dataset can have 0, 1 or multiple modes.
+
+measures of asymmetry	Measures that describe the data through the level of symmetry that is observed. The most common are skewness and kurtosis.
+skewness: 	A measure that describes the dataset's symmetry around its mean.
+sample formula	A formula that is calculated on a sample. The value obtained is a statistic.
+population formula	A formula that is calculated on a population. The value obtained is a parameter.
+
+measures of variability	Measures that describe the data through the level of dispersion (variability). The most common ones are variance and standard deviation.
+variance :	Measures the dispersion of the dataset around its mean. It is measured in units squared. Denoted σ2 for a population and s2 for a sample.
+standard deviation :	Measures the dispersion of the dataset around its mean. It is measured in original units. It is equal to the square root of the variance. Denoted σ for a population and s for a sample.
+coefficient of variation : 	Measures the dispersion of the dataset around its mean. It is also called 'relative standard deviation'. It is useful for comparing different datasets in terms of variability.
+univariate measure	A measure which refers to a single variable.
+multivariate measure	A measure which refers to multiple variables.
+covariance:	A measure of relationship between two variables. Usually, because of its scale of measurement, covariance is not directly interpretable. Denoted σxy for a population and sxy for a sample.
+linear correlation coefficient:	A measure of relationship between two variables. Very useful for direct interpretation as it takes on values from [-1,1]. Denoted ρxy for a population and rxy for a sample.
+correlation	A measure of the relationship between two variables. There are several ways to compute it, the most common being the linear correlation coefficient.
+
+
+
